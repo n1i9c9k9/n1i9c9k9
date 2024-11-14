@@ -9,5 +9,5 @@
 [![Nick's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=n1i9c9k9&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Nick's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=n1i9c9k9&show_icons=true&theme=ambient_gradient#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-ℹ️  Many of my contributions are not publicly displayed due to company or university policies. <br/>
+ℹ️  Many of my contributions are not publicly displayed due to company or university policies <br/>
 📫  Feel free to reach out via [n.huebenthal99@web.de](mailto:n.huebenthal99@web.de)! <br/>
